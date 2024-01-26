@@ -27,7 +27,7 @@ The steps in the video are also described in the following sections. Select any 
 
 ### [Visual Studio](#tab/visual-studio)
 
-Azurite is automatically available with [Visual Studio 2022](https://visualstudio.microsoft.com/vs/). The Azurite executable is updated as part of Visual Studio new version releases. If you're running an earlier version of Visual Studio, you can install Azurite by using either Node Package Manager, DockerHub, or by cloning the Azurite GitHub repository. 
+Azurite is automatically available with [Visual Studio 2022](https://visualstudio.microsoft.com/vs/). When Visual Studio is updated to a newer version release, the Azurite executable is updated in conjunction. If you're running an earlier version of Visual Studio, the tabs npm, Docker Hub and GitHub can be used to install Azurite locally or to make Azure availabe via a Docker container. 
 
 ### [Visual Studio Code](#tab/visual-studio-code)
 
