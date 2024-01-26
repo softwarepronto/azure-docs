@@ -21,7 +21,7 @@ Azurite supersedes the [Azure Storage Emulator](storage-use-emulator.md), and co
 This video shows you how to install and run the Azurite emulator.
 > [!VIDEO c3badd75-fddb-4f6c-b27d-bab2700c79f1]
 
-The steps in the video are also described in the following sections. Select any of these tabs.
+The steps in the video are also described in the documentation below. How Azurite is installed and run depends on a developers choosen environment. Azurite is native to Visual Studio 2022 (and later). For VS Code, Azurite is an Extension. Docker Hub provides an Azurite image for developers that prefer a container-based storage emulator. It is also possible to install Azurite using Node Package Manager (npm) which will remotely downloads and installs Azurerite. A developer can even clone Azurite from GitHub and then install the clone version using npm targetting locally cloned Azurite package. Each of these alternatives is selectable on the tabs below (Visual Studio, Visual Studio Code, npm, Docker Hub, and GitHub). 
 
 ## Install Azurite
 
